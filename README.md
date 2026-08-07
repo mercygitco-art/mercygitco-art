@@ -13,7 +13,7 @@
 
 </div>
 
----
+
 
 ## 👋 About Me
 
@@ -113,7 +113,7 @@ Production-ready Vue 3 blogging platform with auth, comments, and category manag
 </tr>
 </table>
 
----
+
 
 ## 🎯 Expertise
 
@@ -150,13 +150,12 @@ building:
 exploring:
   - Microservices architecture
   - Cloud-native development
-```
+
 
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=HD-dev&show_icons=true&theme=github_dark&bg_color=0F1419&title_color=FF6B5B&icon_color=00A8E8&text_color=ffffff&hide_border=true" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=HD-dev&background=0F1419&ring=FF6B5B&fire=FF6B5B&stroke=00A8E8&currStreakNum=00D9FF&sideNums=ffffff&currStreakLabel=00A8E8&sideLabels=6B7280&hide_border=true" width="49%" />
 
@@ -166,8 +165,7 @@ exploring:
 
 </div>
 
-
-## 🔗 Connect With Me
+#Connect With Me
 
 <div align="center">
 
