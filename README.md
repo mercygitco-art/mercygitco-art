@@ -8,16 +8,9 @@ Markdown
   ![Followers](https://img.shields.io/github/followers/HD-dev?color=00A8E8&style=flat-square&label=Followers)
   ![Stars](https://img.shields.io/github/stars/HD-dev?color=00D9FF&style=flat-square&label=Total%20Stars)
 
-</div>
-
----
-
-## `$ whoami`
-
 **Hirna Daksitha Serasinha** | Automation Specialist | Full-Stack Developer  
 📍 **Colombo, Sri Lanka** | 💼 **3 years of experience** | 🔧 **Software Engineering**
 
-```bash
 $ cat profile.yml
 
 role: "Full-Stack Developer & Automation Specialist"
@@ -172,3 +165,7 @@ Tertiary	#00D9FF	Highlights, stats (bright cyan for modern tech energy)
 Warm Gold	#FFB563	Accent for contact/email (tropical warmth, premium feel)
 Dark Background	#0F1419	Cards, contrast (deep charcoal for professional minimalism)
 Terminal Font	JetBrains Mono	Typing SVG + code blocks (dev-focused, clean aesthetics)
+
+</div>
+
+
