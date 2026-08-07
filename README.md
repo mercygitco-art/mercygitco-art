@@ -17,17 +17,17 @@
 
 ## 👋 About Me
 
-```yaml
+
 role: "Full-Stack Developer & Automation Specialist"
 experience: "3+ years"
 domain: "Software Engineering"
 specialization: "Full-Stack Development & Automation"
 open_to: ["Remote", "On-site", "Contract", "Full-time"]
-```
+
 
 I build full-stack web applications and design automation workflows that cut manual work and boost team productivity. Currently focused on shipping production-grade tools with **Vue.js**, **TypeScript**, and **Node.js**, backed by solid CI/CD practices.
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -43,7 +43,7 @@ I build full-stack web applications and design automation workflows that cut man
 **DevOps & Tools**
 <p> <img src="https://skillicons.dev/icons?i=docker&theme=dark" /> <img src="https://skillicons.dev/icons?i=git&theme=dark" /> <img src="https://skillicons.dev/icons?i=github&theme=dark" /> <img src="https://skillicons.dev/icons?i=vscode&theme=dark" /> <img src="https://skillicons.dev/icons?i=figma&theme=dark" /> </p>
 
----
+
 
 ## 💼 Experience
 
@@ -57,7 +57,7 @@ I build full-stack web applications and design automation workflows that cut man
 
 `JavaScript` `TypeScript` `Vue.js` `Node.js` `Docker` `GitHub Actions` `MongoDB` `Express.js`
 
----
+
 
 ## 🚀 Featured Projects
 
@@ -115,7 +115,7 @@ Production-ready Vue 3 blogging platform with auth, comments, and category manag
 
 ## 📚 Currently
 
-```yaml
+
 learning:
   - C# / .NET ecosystem
   - PHP backend development
@@ -131,7 +131,6 @@ exploring:
   - Cloud-native development
 ```
 
----
 
 ## 📊 GitHub Analytics
 
@@ -146,7 +145,6 @@ exploring:
 
 </div>
 
----
 
 ## 🔗 Connect With Me
 
