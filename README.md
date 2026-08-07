@@ -1,6 +1,10 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=4000&pause=1000&color=FF6B5B&center=true&vCenter=true&width=650&height=60&lines=Full-Stack+Developer+%26+Automation+Specialist;Building+scalable+web+applications;Designing+robust+automation+workflows;TypeScript+%7C+Vue.js+%7C+Node.js" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api
+  ?type=shark&color=0A0F08&fontColor=CAFF3C
+  &text=%3E_%20YOUR%20NAME&fontSize=38
+  &desc=Your+Title+Here&descColor=8AFF57
+  &animation=fadeIn" />
+</div>
 
 ### Hirna Daksitha Serasinha
 **Automation Specialist · Full-Stack Developer**
