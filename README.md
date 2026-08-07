@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api
+<img width="100%" src="https://avatars.githubusercontent.com/u/252034295?v=4&size=64
   ?type=shark&color=0A0F08&fontColor=CAFF3C
   &text=%3E_%20YOUR%20NAME&fontSize=38
   &desc=Your+Title+Here&descColor=8AFF57
