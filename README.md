@@ -4,8 +4,8 @@
 <img
   alt="Profile avatar for Hirna Daksitha Serasinha (HD-dev)"
   src="https://avatars.githubusercontent.com/u/252034295?v=4"
-  width="96"
-  height="96"
+  width="100"
+  height="100"
   style="border-radius:50%" />
 
 ### Hirna Daksitha Serasinha
@@ -13,7 +13,6 @@
 
 📍 Colombo, Sri Lanka &nbsp;|&nbsp; 💼 3+ Years Experience &nbsp;|&nbsp; 🔧 Software Engineering
 
-[![Visitors](https://komarev.com/ghpvc/?username=HD-dev&color=FF6B5B&style=flat-square)](https://github.com/HD-dev)
 [![Followers](https://img.shields.io/github/followers/HD-dev?color=00A8E8&style=flat-square&label=Followers)](https://github.com/HD-dev?tab=followers)
 [![Stars](https://img.shields.io/github/stars/HD-dev?color=00D9FF&style=flat-square&label=Total%20Stars)](https://github.com/HD-dev?tab=stars)
 
