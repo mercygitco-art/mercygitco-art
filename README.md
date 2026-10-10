@@ -1,7 +1,7 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:FF6B5B,50:00A8E8,100:00D9FF&text=Hirna%20Daksitha%20Serasinha&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Automation%20Specialist%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20System%20Architect&descSize=18&descAlignY=58&animation=fadeIn" alt="Hiruna Daksitha Serasinha banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:FF6B5B,50:00A8E8,100:00D9FF&text=Hiruna%20Daksitha%20Serasinha&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Automation%20Specialist%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20System%20Architect&descSize=18&descAlignY=58&animation=fadeIn" alt="Hiruna Daksitha Serasinha banner" width="100%" />
 
 <a href="https://github.com/HD-dev">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=00A8E8&center=true&vCenter=true&width=760&lines=Building+scalable+full-stack+systems;Web+%26+mobile%3A+Next.js+%C2%B7+Vue+%C2%B7+React+Native;Backends+in+C%23+%2F+.NET+%C2%B7+Spring+Boot+%C2%B7+Node.js;Automating+the+boring+parts%2C+architecting+for+change" alt="Typing animation" />
@@ -26,7 +26,7 @@
 I build production-grade **web and mobile applications** and automation workflows that cut manual effort and lift team productivity. I work across **Next.js / Vue / React Native** on the front, **Node.js, C# / .NET and Java Spring Boot** on the back, and I design the systems around them: service boundaries, APIs, data models, and CI/CD.
 
 ```ts
-const hirna = {
+const hiruna = {
   role:        ["Full-Stack Developer", "Automation Specialist", "System Architect"],
   location:    "Colombo, Sri Lanka 🇱🇰",
   experience:  "3+ years",
@@ -220,8 +220,6 @@ Production-ready blog platform built with Vue 3.
 | 🟣 **Exploring** | Microservices at scale · Cloud-native development |
 
 </details>
-
----
 
 ---
 
