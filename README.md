@@ -9,7 +9,7 @@
   style="border-radius:50%" />
 
 ### Hirna Daksitha Serasinha
-**Automation Specialist · Full-Stack Developer**
+**Automation Specialist · Full-Stack Developer · Software Architect**
 
 📍 Colombo, Sri Lanka &nbsp;|&nbsp; 💼 3+ Years Experience &nbsp;|&nbsp; 🔧 Software Engineering
 
@@ -23,11 +23,11 @@
 
 ## 👋 About Me
 
-I build full‑stack web applications and craft automation workflows that reduce manual effort and boost team productivity. I focus on production‑grade tools using Vue.js, TypeScript, Node.js, and reliable CI/CD pipelines.
+I build full‑stack web applications and craft automation workflows that reduce manual effort and boost team productivity. I design and ship production‑grade systems across multiple stacks — Vue.js, TypeScript, and Node.js on one side; C#/.NET and Java Spring Boot on the other — backed by sound system architecture and reliable CI/CD pipelines.
 
-- Role: Full‑Stack Developer & Automation Specialist  
+- Role: Full‑Stack Developer, Automation Specialist & System Architect  
 - Experience: 3+ years  
-- Domain: Software Engineering (Full‑Stack & Automation)  
+- Domain: Software Engineering (Full‑Stack, Backend, Architecture & Automation)  
 - Open to: Remote · On‑site · Contract · Full‑time
 
 ---
@@ -35,16 +35,19 @@ I build full‑stack web applications and craft automation workflows that reduce
 ## 🛠️ Tech Stack
 
 **Languages & Runtimes**  
-<p><img alt="JavaScript" src="https://skillicons.dev/icons?i=javascript&theme=dark" /> <img alt="TypeScript" src="https://skillicons.dev/icons?i=typescript&theme=dark" /> <img alt="HTML5" src="https://skillicons.dev/icons?i=html&theme=dark" /> <img alt="CSS3" src="https://skillicons.dev/icons?i=css&theme=dark" /> <img alt="Node.js" src="https://skillicons.dev/icons?i=nodejs&theme=dark" /></p>
+<p><img alt="JavaScript" src="https://skillicons.dev/icons?i=javascript&theme=dark" /> <img alt="TypeScript" src="https://skillicons.dev/icons?i=typescript&theme=dark" /> <img alt="C#" src="https://skillicons.dev/icons?i=cs&theme=dark" /> <img alt="Java" src="https://skillicons.dev/icons?i=java&theme=dark" /> <img alt="HTML5" src="https://skillicons.dev/icons?i=html&theme=dark" /> <img alt="CSS3" src="https://skillicons.dev/icons?i=css&theme=dark" /> <img alt="Node.js" src="https://skillicons.dev/icons?i=nodejs&theme=dark" /></p>
 
 **Frontend**  
 <p><img alt="Vue" src="https://skillicons.dev/icons?i=vue&theme=dark" /> <img alt="React" src="https://skillicons.dev/icons?i=react&theme=dark" /> <img alt="Angular" src="https://skillicons.dev/icons?i=angular&theme=dark" /></p>
 
 **Backend & Databases**  
-<p><img alt="Express" src="https://skillicons.dev/icons?i=express&theme=dark" /> <img alt="Spring" src="https://skillicons.dev/icons?i=spring&theme=dark" /> <img alt="MongoDB" src="https://skillicons.dev/icons?i=mongodb&theme=dark" /> <img alt="PostgreSQL" src="https://skillicons.dev/icons?i=postgresql&theme=dark" /></p>
+<p><img alt="Express" src="https://skillicons.dev/icons?i=express&theme=dark" /> <img alt=".NET" src="https://skillicons.dev/icons?i=dotnet&theme=dark" /> <img alt="Spring Boot" src="https://skillicons.dev/icons?i=spring&theme=dark" /> <img alt="MongoDB" src="https://skillicons.dev/icons?i=mongodb&theme=dark" /> <img alt="PostgreSQL" src="https://skillicons.dev/icons?i=postgresql&theme=dark" /></p>
 
 **DevOps & Tools**  
 <p><img alt="Docker" src="https://skillicons.dev/icons?i=docker&theme=dark" /> <img alt="Git" src="https://skillicons.dev/icons?i=git&theme=dark" /> <img alt="GitHub" src="https://skillicons.dev/icons?i=github&theme=dark" /> <img alt="VSCode" src="https://skillicons.dev/icons?i=vscode&theme=dark" /> <img alt="Figma" src="https://skillicons.dev/icons?i=figma&theme=dark" /></p>
+
+**Architecture & Practices**  
+System architecture · Microservices · RESTful API design · Scalable & maintainable design patterns · CI/CD & workflow automation
 
 ---
 
@@ -56,9 +59,10 @@ Since 2022 · 3+ years
 - 🏆 Best Employee 2025 — recognized for outstanding contributions  
 - ⚙️ Designed automation workflows that reduced manual tasks by 40%+  
 - 🚀 Built full‑stack tools connecting automation backends with responsive frontends  
+- 🏗️ Architected scalable systems and backend services across Node.js, C#/.NET, and Spring Boot  
 - 📊 Improved team productivity via custom CI/CD pipelines and automation tooling
 
-Technologies: `JavaScript` `TypeScript` `Vue.js` `Node.js` `Docker` `GitHub Actions` `MongoDB` `Express.js`
+Technologies: `JavaScript` `TypeScript` `Vue.js` `Node.js` `C#` `.NET` `Java` `Spring Boot` `Docker` `GitHub Actions` `MongoDB` `Express.js`
 
 ---
 
@@ -75,7 +79,7 @@ Technologies: `JavaScript` `TypeScript` `Vue.js` `Node.js` `Docker` `GitHub Acti
 - Responsive UI and secure backend APIs
 
 `Vue.js` `TypeScript` `Node.js` `Express.js` `MongoDB`  
-Repository: https://github.com/HD-dev/easy-invoice (update if repo differs)
+Repository: https://github.com/HD-dev/easy-invoice
 
 </td>
 <td width="50%" valign="top">
@@ -86,7 +90,7 @@ Repository: https://github.com/HD-dev/easy-invoice (update if repo differs)
 - REST API integration and scalable structure
 
 `Vue.js` `TypeScript` `Node.js` `Express.js`  
-Repository: https://github.com/HD-dev/vue-blog (update if repo differs)
+Repository: https://github.com/HD-dev/vue-blog
 
 </td>
 </tr>
@@ -102,6 +106,9 @@ Repository: https://github.com/HD-dev/vue-blog (update if repo differs)
 | API Development & Integration | ⭐⭐⭐⭐⭐ | RESTful API design, Axios, microservices patterns |
 | TypeScript & Modern JavaScript | ⭐⭐⭐⭐⭐ | Type-safe development, ES6+, async/await |
 | Automation & CI/CD | ⭐⭐⭐⭐⭐ | GitHub Actions, Docker, workflow automation |
+| Backend Development (C# / .NET) | ⭐⭐⭐⭐ | C#, .NET APIs, enterprise-style backend services |
+| Backend Development (Java / Spring Boot) | ⭐⭐⭐⭐ | Spring Boot, REST services, layered architecture |
+| System Architecture & Design | ⭐⭐⭐⭐ | Scalable system design, microservices, design patterns |
 | DevOps & Containerization | ⭐⭐⭐⭐ | Docker, deployment automation |
 | Database Design & Management | ⭐⭐⭐⭐ | MongoDB, PostgreSQL, data modeling |
 
@@ -116,9 +123,8 @@ Repository: https://github.com/HD-dev/vue-blog (update if repo differs)
 ## 📚 Currently
 
 learning:
-- C# / .NET ecosystem
 - PHP backend development
-- Advanced system design patterns
+- Advanced distributed systems & cloud architecture
 
 building:
 - Easy Invoice.lk v2
@@ -126,7 +132,7 @@ building:
 - Full-stack SaaS solutions
 
 exploring:
-- Microservices architecture
+- Microservices architecture at scale
 - Cloud-native development
 
 ---
