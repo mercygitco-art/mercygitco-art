@@ -1,20 +1,22 @@
+<!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
-<!-- Avatar + Title -->
-<img
-  alt="Profile avatar for Hirna Daksitha Serasinha (HD-dev)"
-  src="https://avatars.githubusercontent.com/u/252034295?v=4"
-  width="230"
-  height="230"
-  style="border-radius:50%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:FF6B5B,50:00A8E8,100:00D9FF&text=Hirna%20Daksitha%20Serasinha&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Automation%20Specialist%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20System%20Architect&descSize=18&descAlignY=58&animation=fadeIn" alt="Hirna Daksitha Serasinha banner" width="100%" />
 
-### Hirna Daksitha Serasinha
-**Automation Specialist · Full-Stack Developer · Software Architect**
+<a href="https://github.com/HD-dev">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=00A8E8&center=true&vCenter=true&width=700&lines=Building+scalable+full-stack+systems;Designing+automation+that+removes+manual+work;C%23+%2F+.NET+%C2%B7+Spring+Boot+%C2%B7+Node.js+%C2%B7+Vue;Architecting+for+scale%2C+reliability+%26+clarity" alt="Typing animation" />
+</a>
 
-📍 Colombo, Sri Lanka &nbsp;|&nbsp; 💼 3+ Years Experience &nbsp;|&nbsp; 🔧 Software Engineering
+<br/>
 
+📍 Colombo, Sri Lanka &nbsp;|&nbsp; 💼 3+ Years Experience &nbsp;|&nbsp; 🟢 Open to Remote · On-site · Contract · Full-time
+
+<br/>
+
+[![Visitors](https://komarev.com/ghpvc/?username=HD-dev&color=FF6B5B&style=flat-square&label=Profile+Views)](https://github.com/HD-dev)
 [![Followers](https://img.shields.io/github/followers/HD-dev?color=00A8E8&style=flat-square&label=Followers)](https://github.com/HD-dev?tab=followers)
 [![Stars](https://img.shields.io/github/stars/HD-dev?color=00D9FF&style=flat-square&label=Total%20Stars)](https://github.com/HD-dev?tab=stars)
+[![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/HD-dev&query=$.public_repos&label=Public%20Repos&color=FFB563&style=flat-square)](https://github.com/HD-dev?tab=repositories)
 
 </div>
 
@@ -22,46 +24,106 @@
 
 ## 👋 About Me
 
-I build full‑stack web applications and craft automation workflows that reduce manual effort and boost team productivity. I design and ship production‑grade systems across multiple stacks — Vue.js, TypeScript, and Node.js on one side; C#/.NET and Java Spring Boot on the other — backed by sound system architecture and reliable CI/CD pipelines.
+I build production-grade full-stack applications and automation workflows that cut manual effort and lift team productivity. I work across **Vue / TypeScript / Node.js**, **C# / .NET**, and **Java Spring Boot**, and I design the systems around them: service boundaries, APIs, data models, and CI/CD.
 
-- Role: Full‑Stack Developer, Automation Specialist & System Architect  
-- Experience: 3+ years  
-- Domain: Software Engineering (Full‑Stack, Backend, Architecture & Automation)  
-- Open to: Remote · On‑site · Contract · Full‑time
+```ts
+const hirna = {
+  role:        ["Full-Stack Developer", "Automation Specialist", "System Architect"],
+  location:    "Colombo, Sri Lanka 🇱🇰",
+  experience:  "3+ years",
+  recognition: "Best Employee 2025 @ ProAccount Lanka",
+  languages:   ["TypeScript", "JavaScript", "C#", "Java"],
+  frameworks:  ["Vue", "React", "Angular", "Node/Express", ".NET", "Spring Boot"],
+  strengths:   ["System architecture", "API design", "CI/CD & automation", "Containerization"],
+  currentlyLearning: ["PHP", "Distributed systems", "Cloud architecture"],
+  openTo:      ["Remote", "On-site", "Contract", "Full-time"],
+  philosophy:  "Automate the boring parts. Architect for change.",
+};
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Runtimes**  
-<p><img alt="JavaScript" src="https://skillicons.dev/icons?i=javascript&theme=dark" /> <img alt="TypeScript" src="https://skillicons.dev/icons?i=typescript&theme=dark" /> <img alt="C#" src="https://skillicons.dev/icons?i=cs&theme=dark" /> <img alt="Java" src="https://skillicons.dev/icons?i=java&theme=dark" /> <img alt="HTML5" src="https://skillicons.dev/icons?i=html&theme=dark" /> <img alt="CSS3" src="https://skillicons.dev/icons?i=css&theme=dark" /> <img alt="Node.js" src="https://skillicons.dev/icons?i=nodejs&theme=dark" /></p>
+<div align="center">
 
-**Frontend**  
-<p><img alt="Vue" src="https://skillicons.dev/icons?i=vue&theme=dark" /> <img alt="React" src="https://skillicons.dev/icons?i=react&theme=dark" /> <img alt="Angular" src="https://skillicons.dev/icons?i=angular&theme=dark" /></p>
+| | |
+|:---|:---|
+| **Languages** | <img src="https://skillicons.dev/icons?i=ts,js,cs,java,html,css&theme=dark" alt="Languages" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=vue,react,angular&theme=dark" alt="Frontend" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,spring&theme=dark" alt="Backend" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mongodb,postgres&theme=dark" alt="Databases" /> |
+| **DevOps** | <img src="https://skillicons.dev/icons?i=docker,githubactions,git,github&theme=dark" alt="DevOps" /> |
+| **Design & Tools** | <img src="https://skillicons.dev/icons?i=figma,vscode&theme=dark" alt="Tools" /> |
 
-**Backend & Databases**  
-<p><img alt="Express" src="https://skillicons.dev/icons?i=express&theme=dark" /> <img alt=".NET" src="https://skillicons.dev/icons?i=dotnet&theme=dark" /> <img alt="Spring Boot" src="https://skillicons.dev/icons?i=spring&theme=dark" /> <img alt="MongoDB" src="https://skillicons.dev/icons?i=mongodb&theme=dark" /> <img alt="PostgreSQL" src="https://skillicons.dev/icons?i=postgresql&theme=dark" /></p>
+</div>
 
-**DevOps & Tools**  
-<p><img alt="Docker" src="https://skillicons.dev/icons?i=docker&theme=dark" /> <img alt="Git" src="https://skillicons.dev/icons?i=git&theme=dark" /> <img alt="GitHub" src="https://skillicons.dev/icons?i=github&theme=dark" /> <img alt="VSCode" src="https://skillicons.dev/icons?i=vscode&theme=dark" /> <img alt="Figma" src="https://skillicons.dev/icons?i=figma&theme=dark" /></p>
+---
 
-**Architecture & Practices**  
-System architecture · Microservices · RESTful API design · Scalable & maintainable design patterns · CI/CD & workflow automation
+## 🏗️ How I Think About Architecture
+
+A reference layout I design around: clean separation between clients, an API layer, independently deployable services, and automated delivery.
+
+```mermaid
+flowchart LR
+    subgraph Clients
+        W[Web App<br/>Vue / React / Angular]
+        M[Mobile App]
+    end
+
+    subgraph Edge
+        G[API Gateway<br/>Auth · Rate limiting · Routing]
+    end
+
+    subgraph Services
+        N[Node.js / Express<br/>Automation & Integrations]
+        D[C# / .NET<br/>Business Services]
+        S[Spring Boot<br/>Core Domain APIs]
+    end
+
+    subgraph Data
+        MDB[(MongoDB)]
+        PG[(PostgreSQL)]
+    end
+
+    subgraph Delivery
+        GH[GitHub Actions<br/>CI/CD] --> DK[Docker<br/>Containers]
+    end
+
+    W --> G
+    M --> G
+    G --> N
+    G --> D
+    G --> S
+    N --> MDB
+    D --> PG
+    S --> PG
+    DK -. deploys .-> Services
+```
+
+**Principles I work by**
+
+- **Separate concerns:** thin controllers, clear domain layers, replaceable infrastructure
+- **Design APIs first:** consistent REST contracts, versioning, and validation at the edge
+- **Automate delivery:** every merge builds, tests, and ships through a pipeline
+- **Plan for failure:** observability, retries, and graceful degradation over heroics
 
 ---
 
 ## 💼 Experience
 
-### Automation Specialist — ProAccount Lanka (Pvt) Ltd  
-Since 2022 · 3+ years
+### Automation Specialist · ProAccount Lanka (Pvt) Ltd
+*2022 – Present · 3+ years*
 
-- 🏆 Best Employee 2025 — recognized for outstanding contributions  
-- ⚙️ Designed automation workflows that reduced manual tasks by 40%+  
-- 🚀 Built full‑stack tools connecting automation backends with responsive frontends  
-- 🏗️ Architected scalable systems and backend services across Node.js, C#/.NET, and Spring Boot  
-- 📊 Improved team productivity via custom CI/CD pipelines and automation tooling
+| Impact | |
+|:---|:---|
+| 🏆 **Recognition** | Best Employee 2025 for outstanding contributions |
+| ⚙️ **Automation** | Designed workflows that reduced manual tasks by **40%+** |
+| 🚀 **Full-stack delivery** | Built tools connecting automation backends with responsive frontends |
+| 🏗️ **Architecture** | Designed scalable backend services across Node.js, C#/.NET, and Spring Boot |
+| 📊 **Productivity** | Custom CI/CD pipelines and automation tooling for the team |
 
-Technologies: `JavaScript` `TypeScript` `Vue.js` `Node.js` `C#` `.NET` `Java` `Spring Boot` `Docker` `GitHub Actions` `MongoDB` `Express.js`
+`JavaScript` `TypeScript` `Vue.js` `Node.js` `C#` `.NET` `Java` `Spring Boot` `Docker` `GitHub Actions` `MongoDB` `Express.js`
 
 ---
 
@@ -71,25 +133,30 @@ Technologies: `JavaScript` `TypeScript` `Vue.js` `Node.js` `C#` `.NET` `Java` `S
 <tr>
 <td width="50%" valign="top">
 
-**📱 Easy Invoice.lk** — Smart invoicing platform for small businesses (web + mobile)
+### 📱 [Easy Invoice.lk](https://github.com/HD-dev/easy-invoice)
+Smart invoicing platform for small businesses (web + mobile).
 
 - Invoicing, client management, payment tracking
-- Real‑time sync between web and mobile
+- Real-time sync between web and mobile
 - Responsive UI and secure backend APIs
 
-`Vue.js` `TypeScript` `Node.js` `Express.js` `MongoDB`  
-Repository: https://github.com/HD-dev/easy-invoice
+`Vue.js` `TypeScript` `Node.js` `Express.js` `MongoDB`
+
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/HD-dev/easy-invoice)
 
 </td>
 <td width="50%" valign="top">
 
-**📝 Vue Blog Project** — Production-ready blog platform built with Vue 3
+### 📝 [Vue Blog Project](https://github.com/HD-dev/vue-blog)
+Production-ready blog platform built with Vue 3.
 
 - Auth, comments, categories, and role-based access
 - REST API integration and scalable structure
+- Typed end to end with TypeScript
 
-`Vue.js` `TypeScript` `Node.js` `Express.js`  
-Repository: https://github.com/HD-dev/vue-blog
+`Vue.js` `TypeScript` `Node.js` `Express.js`
+
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/HD-dev/vue-blog)
 
 </td>
 </tr>
@@ -99,52 +166,91 @@ Repository: https://github.com/HD-dev/vue-blog
 
 ## 🎯 Expertise
 
-| Domain | Level | Highlights |
-|---|---:|---|
-| Full-Stack Web Development | ⭐⭐⭐⭐⭐ | Vue.js, React, Angular · Node.js, Express.js |
-| API Development & Integration | ⭐⭐⭐⭐⭐ | RESTful API design, Axios, microservices patterns |
-| TypeScript & Modern JavaScript | ⭐⭐⭐⭐⭐ | Type-safe development, ES6+, async/await |
-| Automation & CI/CD | ⭐⭐⭐⭐⭐ | GitHub Actions, Docker, workflow automation |
-| Backend Development (C# / .NET) | ⭐⭐⭐⭐ | C#, .NET APIs, enterprise-style backend services |
-| Backend Development (Java / Spring Boot) | ⭐⭐⭐⭐ | Spring Boot, REST services, layered architecture |
-| System Architecture & Design | ⭐⭐⭐⭐ | Scalable system design, microservices, design patterns |
-| DevOps & Containerization | ⭐⭐⭐⭐ | Docker, deployment automation |
-| Database Design & Management | ⭐⭐⭐⭐ | MongoDB, PostgreSQL, data modeling |
+| Domain | Proficiency | Highlights |
+|:---|:---|:---|
+| Full-Stack Web Development | `█████████░` 90% | Vue, React, Angular · Node.js, Express |
+| API Development & Integration | `█████████░` 90% | REST design, Axios, microservice patterns |
+| TypeScript & Modern JavaScript | `█████████░` 90% | Type-safe development, ES6+, async/await |
+| Automation & CI/CD | `█████████░` 90% | GitHub Actions, Docker, workflow automation |
+| System Architecture & Design | `████████░░` 80% | Scalable design, microservices, design patterns |
+| Backend: C# / .NET | `████████░░` 80% | .NET APIs, enterprise-style backend services |
+| Backend: Java / Spring Boot | `████████░░` 80% | Spring Boot, REST services, layered architecture |
+| DevOps & Containerization | `████████░░` 80% | Docker, deployment automation |
+| Database Design | `████████░░` 80% | MongoDB, PostgreSQL, data modeling |
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=HD-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HD-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=HD-dev&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HD-dev&theme=tokyonight&hide_border=true&area=true&color=00A8E8&line=FF6B5B&point=ffffff" alt="Contribution activity graph" width="100%" />
+
+<!-- Contribution snake: generated by .github/workflows/snake.yml (profile repo must be HD-dev/HD-dev) -->
+<img src="https://raw.githubusercontent.com/HD-dev/HD-dev/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="100%" />
+
+</div>
 
 ---
 
 ## 🎓 Education
 
-**Software Engineering Degree** — A.T.A.R.I, 2019
+**Software Engineering Degree** · A.T.A.R.I · 2019
 
 ---
 
-## 📚 Currently
+## 🧭 Now
 
-learning:
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**📚 Learning**
 - PHP backend development
-- Advanced distributed systems & cloud architecture
+- Distributed systems
+- Cloud architecture
 
-building:
+</td>
+<td valign="top" width="33%">
+
+**🔨 Building**
 - Easy Invoice.lk v2
 - Automation workflow optimization tools
 - Full-stack SaaS solutions
 
-exploring:
-- Microservices architecture at scale
+</td>
+<td valign="top" width="33%">
+
+**🔭 Exploring**
+- Microservices at scale
 - Cloud-native development
 
+</td>
+</tr>
+</table>
+
 ---
 
-## 📫 Connect With Me
+## 🤝 Let's Work Together
+
+I'm open to **remote, on-site, contract, and full-time** roles in full-stack development, backend engineering, automation, and system architecture.
 
 <div align="center">
-  <a href="#"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-FF6B5B?style=for-the-badge&logo=globe&logoColor=white" /></a>
-  <a href="#"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-00A8E8?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img alt="Email" src="https://img.shields.io/badge/Email-FFB563?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/HD-dev"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-00D9FF?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<a href="#"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-FF6B5B?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="#"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-00A8E8?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="#"><img alt="Email" src="https://img.shields.io/badge/Email-FFB563?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/HD-dev"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br/><br/>
+
+<sub>*"Building elegant solutions to complex automation challenges, one commit at a time."*</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:FF6B5B,50:00A8E8,100:00D9FF&section=footer" alt="footer" width="100%" />
+
 </div>
-
----
-
-> "Building elegant solutions to complex automation challenges — one commit at a time."
