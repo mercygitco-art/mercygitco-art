@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:FF6B5B,50:00A8E8,100:00D9FF&text=Hirna%20Daksitha%20Serasinha&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Automation%20Specialist%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20System%20Architect&descSize=18&descAlignY=58&animation=fadeIn" alt="Hirna Daksitha Serasinha banner" width="100%" />
 
 <a href="https://github.com/HD-dev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=00A8E8&center=true&vCenter=true&width=700&lines=Building+scalable+full-stack+systems;Designing+automation+that+removes+manual+work;C%23+%2F+.NET+%C2%B7+Spring+Boot+%C2%B7+Node.js+%C2%B7+Vue;Architecting+for+scale%2C+reliability+%26+clarity" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=00A8E8&center=true&vCenter=true&width=760&lines=Building+scalable+full-stack+systems;Web+%26+mobile%3A+Next.js+%C2%B7+Vue+%C2%B7+React+Native;Backends+in+C%23+%2F+.NET+%C2%B7+Spring+Boot+%C2%B7+Node.js;Automating+the+boring+parts%2C+architecting+for+change" alt="Typing animation" />
 </a>
 
 <br/>
@@ -16,7 +16,6 @@
 [![Visitors](https://komarev.com/ghpvc/?username=HD-dev&color=FF6B5B&style=flat-square&label=Profile+Views)](https://github.com/HD-dev)
 [![Followers](https://img.shields.io/github/followers/HD-dev?color=00A8E8&style=flat-square&label=Followers)](https://github.com/HD-dev?tab=followers)
 [![Stars](https://img.shields.io/github/stars/HD-dev?color=00D9FF&style=flat-square&label=Total%20Stars)](https://github.com/HD-dev?tab=stars)
-[![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/HD-dev&query=$.public_repos&label=Public%20Repos&color=FFB563&style=flat-square)](https://github.com/HD-dev?tab=repositories)
 
 </div>
 
@@ -24,7 +23,7 @@
 
 ## 👋 About Me
 
-I build production-grade full-stack applications and automation workflows that cut manual effort and lift team productivity. I work across **Vue / TypeScript / Node.js**, **C# / .NET**, and **Java Spring Boot**, and I design the systems around them: service boundaries, APIs, data models, and CI/CD.
+I build production-grade **web and mobile applications** and automation workflows that cut manual effort and lift team productivity. I work across **Next.js / Vue / React Native** on the front, **Node.js, C# / .NET and Java Spring Boot** on the back, and I design the systems around them: service boundaries, APIs, data models, and CI/CD.
 
 ```ts
 const hirna = {
@@ -33,7 +32,9 @@ const hirna = {
   experience:  "3+ years",
   recognition: "Best Employee 2025 @ ProAccount Lanka",
   languages:   ["TypeScript", "JavaScript", "C#", "Java"],
-  frameworks:  ["Vue", "React", "Angular", "Node/Express", ".NET", "Spring Boot"],
+  web:         ["Next.js", "React", "Vue", "Angular"],
+  mobile:      ["React Native"],
+  backend:     ["Node/Express", ".NET", "Spring Boot"],
   strengths:   ["System architecture", "API design", "CI/CD & automation", "Containerization"],
   currentlyLearning: ["PHP", "Distributed systems", "Cloud architecture"],
   openTo:      ["Remote", "On-site", "Contract", "Full-time"],
@@ -50,7 +51,8 @@ const hirna = {
 | | |
 |:---|:---|
 | **Languages** | <img src="https://skillicons.dev/icons?i=ts,js,cs,java,html,css&theme=dark" alt="Languages" /> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=vue,react,angular&theme=dark" alt="Frontend" /> |
+| **Web Frontend** | <img src="https://skillicons.dev/icons?i=nextjs,react,vue,angular&theme=dark" alt="Web frontend" /> |
+| **Mobile** | <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" /> |
 | **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,spring&theme=dark" alt="Backend" /> |
 | **Databases** | <img src="https://skillicons.dev/icons?i=mongodb,postgres&theme=dark" alt="Databases" /> |
 | **DevOps** | <img src="https://skillicons.dev/icons?i=docker,githubactions,git,github&theme=dark" alt="DevOps" /> |
@@ -67,8 +69,8 @@ A reference layout I design around: clean separation between clients, an API lay
 ```mermaid
 flowchart LR
     subgraph Clients
-        W[Web App<br/>Vue / React / Angular]
-        M[Mobile App]
+        W[Web<br/>Next.js · Vue · React · Angular]
+        M[Mobile<br/>React Native]
     end
 
     subgraph Edge
@@ -101,12 +103,38 @@ flowchart LR
     DK -. deploys .-> Services
 ```
 
-**Principles I work by**
+<details>
+<summary><b>⚙️ Delivery pipeline: from commit to production</b></summary>
+
+<br/>
+
+```mermaid
+flowchart LR
+    A[Commit / PR] --> B[Lint & Type-check]
+    B --> C[Unit & Integration Tests]
+    C --> D[Build Docker Image]
+    D --> E[Push to Registry]
+    E --> F{Branch?}
+    F -- feature --> G[Preview Environment]
+    F -- main --> H[Staging]
+    H --> I[Smoke Tests]
+    I --> J[Production]
+```
+
+</details>
+
+<details>
+<summary><b>📐 Principles I work by</b></summary>
+
+<br/>
 
 - **Separate concerns:** thin controllers, clear domain layers, replaceable infrastructure
 - **Design APIs first:** consistent REST contracts, versioning, and validation at the edge
+- **One backend, many clients:** a single API contract serves Next.js, Vue, and React Native alike
 - **Automate delivery:** every merge builds, tests, and ships through a pipeline
 - **Plan for failure:** observability, retries, and graceful degradation over heroics
+
+</details>
 
 ---
 
@@ -123,7 +151,7 @@ flowchart LR
 | 🏗️ **Architecture** | Designed scalable backend services across Node.js, C#/.NET, and Spring Boot |
 | 📊 **Productivity** | Custom CI/CD pipelines and automation tooling for the team |
 
-`JavaScript` `TypeScript` `Vue.js` `Node.js` `C#` `.NET` `Java` `Spring Boot` `Docker` `GitHub Actions` `MongoDB` `Express.js`
+`JavaScript` `TypeScript` `Vue.js` `Next.js` `React Native` `Node.js` `C#` `.NET` `Java` `Spring Boot` `Docker` `GitHub Actions` `MongoDB` `Express.js`
 
 ---
 
@@ -168,15 +196,30 @@ Production-ready blog platform built with Vue 3.
 
 | Domain | Proficiency | Highlights |
 |:---|:---|:---|
-| Full-Stack Web Development | `█████████░` 90% | Vue, React, Angular · Node.js, Express |
+| Full-Stack Web Development | `█████████░` 90% | Next.js, Vue, React, Angular · Node.js, Express |
 | API Development & Integration | `█████████░` 90% | REST design, Axios, microservice patterns |
 | TypeScript & Modern JavaScript | `█████████░` 90% | Type-safe development, ES6+, async/await |
 | Automation & CI/CD | `█████████░` 90% | GitHub Actions, Docker, workflow automation |
+| Mobile Development | `████████░░` 80% | React Native, shared API contracts with web |
 | System Architecture & Design | `████████░░` 80% | Scalable design, microservices, design patterns |
 | Backend: C# / .NET | `████████░░` 80% | .NET APIs, enterprise-style backend services |
 | Backend: Java / Spring Boot | `████████░░` 80% | Spring Boot, REST services, layered architecture |
 | DevOps & Containerization | `████████░░` 80% | Docker, deployment automation |
 | Database Design | `████████░░` 80% | MongoDB, PostgreSQL, data modeling |
+
+<details>
+<summary><b>🧭 Tech radar</b></summary>
+
+<br/>
+
+| Ring | Technologies |
+|:---|:---|
+| 🟢 **Core** (daily drivers) | TypeScript · JavaScript · Vue · Next.js · React · Node.js · Express · Docker · GitHub Actions |
+| 🔵 **Proficient** | C# / .NET · Java / Spring Boot · React Native · Angular · MongoDB · PostgreSQL |
+| 🟡 **Learning** | PHP · Distributed systems · Cloud architecture |
+| 🟣 **Exploring** | Microservices at scale · Cloud-native development |
+
+</details>
 
 ---
 
@@ -184,15 +227,17 @@ Production-ready blog platform built with Vue 3.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=HD-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HD-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<img src="assets/stats.svg" alt="GitHub stats" width="49%" />
+<img src="assets/top-langs.svg" alt="Top languages" width="49%" />
 
-<img src="https://streak-stats.demolab.com?user=HD-dev&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="assets/streak.svg" alt="Contribution streak" width="98%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HD-dev&theme=tokyonight&hide_border=true&area=true&color=00A8E8&line=FF6B5B&point=ffffff" alt="Contribution activity graph" width="100%" />
+<img src="assets/activity-graph.svg" alt="Contribution activity graph" width="98%" />
 
-<!-- Contribution snake: generated by .github/workflows/snake.yml (profile repo must be HD-dev/HD-dev) -->
-<img src="https://raw.githubusercontent.com/HD-dev/HD-dev/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="100%" />
+<!-- Contribution snake: generated by .github/workflows/snake.yml -->
+<img src="https://raw.githubusercontent.com/HD-dev/HD-dev/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="98%" />
+
+<sub>Charts above are generated by my own <a href="scripts/generate_profile_assets.py">GitHub Action</a>, with no third-party image services.</sub>
 
 </div>
 
@@ -238,7 +283,7 @@ Production-ready blog platform built with Vue 3.
 
 ## 🤝 Let's Work Together
 
-I'm open to **remote, on-site, contract, and full-time** roles in full-stack development, backend engineering, automation, and system architecture.
+I'm open to **remote, on-site, contract, and full-time** roles in full-stack development, mobile, backend engineering, automation, and system architecture.
 
 <div align="center">
 
