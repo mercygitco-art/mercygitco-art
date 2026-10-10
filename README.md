@@ -4,8 +4,8 @@
 <img
   alt="Profile avatar for Hirna Daksitha Serasinha (HD-dev)"
   src="https://avatars.githubusercontent.com/u/252034295?v=4"
-  width="100"
-  height="100"
+  width="130"
+  height="130"
   style="border-radius:50%" />
 
 ### Hirna Daksitha Serasinha
